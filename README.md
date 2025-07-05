@@ -87,7 +87,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 🙌 Author
 Developed by Karthick G
-Connect on LinkedIn | GitHub: @your-username
+Connect on LinkedIn | GitHub: CodeWith-Karthick
 
 ⭐️ Feedback & Contributions
 Feel free to fork the repo, raise issues, or suggest improvements via pull requests. Contributions are always welcome!
